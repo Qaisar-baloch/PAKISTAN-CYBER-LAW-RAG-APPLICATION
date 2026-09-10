@@ -1,0 +1,7 @@
+streamlit>=1.50,<2
+faiss-cpu>=1.12,<2
+sentence-transformers>=5.1,<6
+pypdf>=6,<7
+gdown>=5.2,<6
+numpy>=2.0,<3
+openai>=1.100,<3
