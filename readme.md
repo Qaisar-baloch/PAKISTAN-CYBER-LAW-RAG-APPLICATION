@@ -1,4 +1,5 @@
 # Pakistan Cyber Law RAG — Streamlit + FAISS + Grok
+for demo click here:https://pakistan-cyber-law-rag-application-2yvgz28qknksrwmvrvd6hs.streamlit.app/
 
 A production-oriented starter RAG application for questions about Pakistan cyber law.
 
